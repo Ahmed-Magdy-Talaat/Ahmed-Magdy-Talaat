@@ -52,7 +52,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Magdy-Talaat&hide_border=true" />
 </details>
 
 <details>
