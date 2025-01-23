@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-I am a Computer Engineering Student and Full Stack Developer currently working as a freelancer.I am open to learn new things and contribute to open source🚀
+I am a Computer Engineering Student and Full Stack Developer.I am open to learn new things and contribute to open source🚀
 
 I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, C# , etc. I've worked on different projects covering Frontend, Backend, and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
 
